@@ -24,8 +24,9 @@ has_children: true
 
 | Debian Wiki |
 | ----------- |
-| [FluxBox](https://wiki.debian.org/FluxBox) |
-| [DebianFluxbox](https://wiki.debian.org/DebianFluxbox) |
+| [Fluxbox](https://fluxbox.org/) |
+| Fluxbox / [Help](https://fluxbox.org/help/) |
+| GitHub / [fluxbox](https://github.com/fluxbox/fluxbox) |
 
 
 
