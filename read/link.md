@@ -44,6 +44,10 @@ has_children: true
 | Fluxbox Themes |
 | -------------- |
 | Box-Look.org / [Fluxbox Themes](https://www.box-look.org/browse?cat=139&ord=latest) |
+| [Fluxbox-themes](https://github.com/xexpanderx/Fluxbox-themes) |
+| addy-dclxvi / [Tourmente](https://github.com/addy-dclxvi/almighty-dotfiles/tree/master/.fluxbox/styles/Tourmente) |
+| addy-dclxvi / [nila](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles/tree/master/.fluxbox/styles/nila) |
+| [FluxModern](https://github.com/TerminalHash/Modern) ([Box-Look](https://www.box-look.org/p/2078969)) |
 
 
 
