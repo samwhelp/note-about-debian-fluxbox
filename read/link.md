@@ -25,7 +25,7 @@ has_children: true
 | Debian Wiki |
 | ----------- |
 | [FluxBox](https://wiki.debian.org/FluxBox) |
-| GitHub / [DebianFluxbox](hhttps://wiki.debian.org/DebianFluxbox) |
+| [DebianFluxbox](https://wiki.debian.org/DebianFluxbox) |
 
 
 
