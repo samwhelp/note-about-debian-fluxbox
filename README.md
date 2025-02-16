@@ -32,11 +32,15 @@
 
 ## ISO
 
+
 ### Build ISO
 
-| Build ISO |
-| --------- |
-| [lika-live-build-respin-fluxbox](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
+> [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/)
+
+
+| Build Debian Fluxbox ISO | GitHub |
+| ------------------------ | ------ |
+| [lika-live-build-respin-fluxbox](https://samwhelp.github.io/lika-live-build-respin-lxqt/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
 
 
 
