@@ -71,7 +71,7 @@
 
 | Build Debian Fluxbox ISO | GitHub |
 | ------------------------ | ------ |
-| [lika-live-build-respin-fluxbox](https://samwhelp.github.io/lika-live-build-respin-lxqt/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
+| [lika-live-build-respin-fluxbox](https://samwhelp.github.io/lika-live-build-respin-fluxbox/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
 
 
 
