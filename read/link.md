@@ -15,6 +15,7 @@ has_children: true
 | Fluxbox |
 | -------- |
 | [Fluxbox](https://fluxbox.org/) |
+| Fluxbox / [Help](https://fluxbox.org/help/) |
 | GitHub / [fluxbox](https://github.com/fluxbox/fluxbox) |
 
 
@@ -24,9 +25,8 @@ has_children: true
 
 | Debian Wiki |
 | ----------- |
-| [Fluxbox](https://fluxbox.org/) |
-| Fluxbox / [Help](https://fluxbox.org/help/) |
-| GitHub / [fluxbox](https://github.com/fluxbox/fluxbox) |
+| [DebianFluxbox](https://wiki.debian.org/DebianFluxbox) |
+| [FluxBox](https://wiki.debian.org/FluxBox/) |
 
 
 
