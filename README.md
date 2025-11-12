@@ -28,7 +28,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Debian Fluxbox Config](https://github.com/samwhelp/debian-fluxbox-adjustment/tree/main/prototype/main/fluxbox-config) |
+| [Debian Fluxbox Config](https://github.com/samwhelp/debian-fluxbox-adjustment/tree/main/prototype/main/fluxbox-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
@@ -81,7 +81,10 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-fluxbox) |
-| [MxLinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-mxlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-fluxbox) |
+| [MxLinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-maxlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-maxlinux-fluxbox) |
+| [Ubuntu Fluxbox 探索筆記](https://samwhelp.github.io/note-about-ubuntu-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-fluxbox) |
+| [Fedora Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fedora-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-fedora-fluxbox) |
+| [Archlinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-fluxbox) |
 
 
 
